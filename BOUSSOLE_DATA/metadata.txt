@@ -1,0 +1,24 @@
+
+## bit.sea: nutrients at DYFAMED
+Originally from https://doi.org/10.17882/43749 (Coppola et al., 2021).      
+Extracted with bit.sea:
+N.CruiseSelector('nitrate','DYFAMED')
+N.CruiseSelector('nitrite','DYFAMED')
+N.CruiseSelector('phosphate','DYFAMED')
+N.CruiseSelector('silicate','DYFAMED')
+
+## Chla and HPLC at BOUSSOLE
+Personal communication (E.Organelli, P.Lazzari) (file: Boussole_PFT_HPLC_June2019.xlsx)
+Complete HPLC data available in the project web at http://www.obs-vlfr.fr/Boussole/html/boussole_data/other_useful_files.php (login as guest required).
+
+## IOPs at BOUSSOLE
+Personal communication with IMEV. Data available at the web of the project previous authorization by IMEV (http://www.obs-vlfr.fr/Boussole/html/home/home.php).
+
+## oceansites/DATA_GRIDDED/DYFAMED: CTD data (T,S,dOxy) at DYFAMED
+Downloaded from the OceanSITES Global Data Assembly Center (GDAC) (accessed on 22-Nov-2021 through http://en.data.ifremer.fr/SISMER)
+Also available at ftp://ftp.ifremer.fr/ifremer/oceansites (file: DATA_GRIDDED/DYFAMED/OS_DYFAMED_1994-2014_D_TSO.nc)
+
+## orig: Chla-fluor at BOUSSOLE
+Personal communication with IMEV.
+
+## physics: mld climatology from de Boyer Montégut et al., 2004 (https://cerweb.ifremer.fr/deboyer/mld/Surface_Mixed_Layer_Depth.php)
