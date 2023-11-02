@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Álvarez
+  given-names: Eva
+orcid: https://orcid.org/0000-0002-6776-1029
+title:ealvarez-s/results_bfm_CDOM: Scripts for data analysis and visualization of GOTM-FBM-BFM simulations at the BOUSSOLE site
+version: v1.0.0
+date-released: 2023-11-02
