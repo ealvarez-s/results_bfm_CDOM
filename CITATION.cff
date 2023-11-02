@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Scripts for data analysis and visualization of
+  GOTM-FABM-BFM simulations at the BOUSSOLE site
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Eva
+    family-names: Alvarez
+    email: ealvarez@ogs.it
+    affiliation: OGS
+    orcid: 'https://orcid.org/0000-0002-6776-1029'
+repository-code: 'https://github.com/ealvarez-s/results_bfm_CDOM'
+abstract: >-
+  Model output and scripts to reproduce results in Álvarez
+  et al. (2023): Chromophoric dissolved organic matter
+  dynamics revealed through the optimization of a spectrally
+  and vertically resolved model in the NW Mediterranean Sea.
+version: v2.0.0
+date-released: '2023-11-02'
